@@ -1,0 +1,11 @@
+E:\programing files\Shopp_NewThings\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\programing files\Shopp_NewThings\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\programing files\Shopp_NewThings\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\programing files\Shopp_NewThings\BusinessLogicLayer\bin\Debug\DataObjectLayer.dll
+E:\programing files\Shopp_NewThings\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\programing files\Shopp_NewThings\BusinessLogicLayer\bin\Debug\DataObjectLayer.pdb
+E:\programing files\Shopp_NewThings\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+E:\programing files\Shopp_NewThings\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\programing files\Shopp_NewThings\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+E:\programing files\Shopp_NewThings\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\programing files\Shopp_NewThings\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

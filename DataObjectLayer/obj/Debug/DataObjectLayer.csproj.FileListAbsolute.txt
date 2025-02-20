@@ -1,0 +1,6 @@
+E:\programing files\Shopp_NewThings\DataObjectLayer\bin\Debug\DataObjectLayer.dll
+E:\programing files\Shopp_NewThings\DataObjectLayer\bin\Debug\DataObjectLayer.pdb
+E:\programing files\Shopp_NewThings\DataObjectLayer\obj\Debug\DataObjectLayer.csproj.AssemblyReference.cache
+E:\programing files\Shopp_NewThings\DataObjectLayer\obj\Debug\DataObjectLayer.csproj.CoreCompileInputs.cache
+E:\programing files\Shopp_NewThings\DataObjectLayer\obj\Debug\DataObjectLayer.dll
+E:\programing files\Shopp_NewThings\DataObjectLayer\obj\Debug\DataObjectLayer.pdb
